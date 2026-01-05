@@ -4,7 +4,7 @@ import sys
 from algorithms import backtracking
 from problems import Problem
 
-# sys.setrecursionlimit(10**6)
+sys.setrecursionlimit(10**6)
 
 
 class TransportationProblem(Problem):
